@@ -1,16 +1,11 @@
-## Hi there 👋
+[<img align="left" alt="baudoliver7 | Gmail" width="22px" src="https://cdn.simpleicons.org/gmail/black/white" />](mailto:baudoliver7@gmail.com)
+[<img align="left" alt="baudoliver7 | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/black/white" />](https://www.linkedin.com/in/baudoliver7)
+[<img align="left" alt="yegor256 | Twitter" width="22px" src="https://cdn.simpleicons.org/x/black/white" />](https://x.com/intent/follow?screen_name=baudoliver7)
+[<img align="left" alt="baudoliver7 | Telegram" width="22px" src="https://cdn.simpleicons.org/telegram/black/white" />](https://t.me/baudoliver7news)
+[<img align="left" alt="baudoliver7 | Youtube" width="22px" src="https://cdn.simpleicons.org/youtube/black/white" />](https://youtube.com/@baudoliver7)
+<br/>
 
-<!--
-**baudoliver7/baudoliver7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You may want to:
+1. Subscribe to [my channel](https://t.me/baudoliver7news) in Telegram
+2. [Follow me](https://twitter.com/intent/follow?screen_name=baudoliver7) on X
+3. [Subscribe](https://www.youtube.com/c/baudoliver7?sub_confirmation=1) to my YouTube channel
